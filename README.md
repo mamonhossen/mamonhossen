@@ -15,12 +15,6 @@ Skills:
 
 ---
 
-Experience:
-✔ 14+ Years in Banking Sector  
-✔ Working as Senior Principal Officer  
-
----
-
   Projects:
 - Portfolio Website  
 - Temperature showing in various places 
