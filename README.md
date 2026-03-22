@@ -26,7 +26,7 @@ Experience:
 - LLM  
 
 ---
-Career Goal
+Career Goal:
 To build a strong career in the IT sector by combining my **banking experience** with **technical skills** and contribute to innovative digital solutions.
 
  Contact Me:
