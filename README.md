@@ -10,7 +10,8 @@ Skills:
 - HTML  
 - CSS  
 - Python  
-- MySQL  
+- MySQL
+- JavaScript
 
 ---
 
