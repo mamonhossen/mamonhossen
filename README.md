@@ -1,6 +1,6 @@
  Hi, I'm Mamon Hossen 
 
- Senior Principal Officer (In a Basngladeshi public Bank)  
+ I am a banking professional with over 14 years of experience, including management experience at two A-grade branches, currently working as a Senior Principal Officer. 
  CSE & MBA Graduate  
  Web Developer | Python Developer  
 
