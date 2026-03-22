@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi, I'm Mamon Hossen 
 
-<!--
-**mamonhossen/mamonhossen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Senior Principal Officer (In a Basngladeshi public Bank)  
+ CSE & MBA Graduate  
+ Web Developer | Python Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- HTML  
+- CSS  
+- Python  
+- MySQL  
+
+---
+
+Experience:
+✔ 14+ Years in Banking Sector  
+✔ Working as Senior Principal Officer  
+
+---
+
+  Projects:
+- Portfolio Website  
+- Temperature showing in various places 
+- LLM  
+
+---
+Career Goal
+To build a strong career in the IT sector by combining my **banking experience** with **technical skills** and contribute to innovative digital solutions.
+
+ Contact Me:
+- LinkedIn: https://linkedin.com/in/mamonhossen  
+- GitHub: https://github.com/mamonhossen
+- facebook: https://facebook.com/mamon.hossen.3
+- whatsapp: 01712870903
