@@ -20,6 +20,7 @@ Skills:
 - Temperature showing in various places 
 - LLM
 - Multi-Vendor-SaaS-Marketplace-with-Warehouse-Returns-System
+- CLI-Task-Management-System-using-JavaScript-Node.js
 
 ---
 Career Goal:
